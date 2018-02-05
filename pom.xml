@@ -67,7 +67,9 @@
         <project.mianhuatang_v2.version>0.1.0</project.mianhuatang_v2.version>
         <project.zhongteng.version>0.7.3</project.zhongteng.version>
         <project.meiping.version>0.4.2</project.meiping.version>
-        <project.caimomo.version>0.5.0</project.caimomo.version>
+        <project.caimomo.version>0.7.3</project.caimomo.version>
+        <project.wuting.version>0.2.5</project.wuting.version>
+        <project.sixun_meishitong.version>0.1.7</project.sixun_meishitong.version>
         <project.jiacheng.version>0.2.1</project.jiacheng.version>
         <project.zhishenglian.version>0.8.0</project.zhishenglian.version>
         <project.zhongboli.version>0.7.2</project.zhongboli.version>
